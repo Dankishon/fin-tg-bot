@@ -26,5 +26,5 @@
 ### 1. Клонирование репозитория
 Склонируйте репозиторий проекта на ваш компьютер:
 ```bash
-git clone https://github.com/<ваш-логин>/<ваш-репозиторий>.git
+git clone https://github.com/Dankishon/fin-tg-bot.git
 cd telegram_bot_project
