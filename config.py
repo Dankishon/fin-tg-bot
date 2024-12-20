@@ -1,6 +1,4 @@
-# Конфигурации проекта
-BOT_TOKEN = "YOUR_TOKEN"  # Укажите токен вашего Telegram-бота
-ADMIN_ID = 123456789      # Ваш Telegram ID
-BONUS_INTERVAL = 6        # Интервал выдачи бонусов в часах
+BOT_TOKEN = "7512360118:AAH2UE97D7VWMYe3IOps3ihrGKla3tj3FbM"  # Токен бота
+ADMIN_ID = 793844626  # Telegram ID администратора
 DATA_PATH = "data/users.json"  # Путь к файлу с данными пользователей
-LOG_PATH = "data/logs/"        # Путь к директории с логами
+LOG_PATH = "data/logs/"  # Путь к папке с логами
